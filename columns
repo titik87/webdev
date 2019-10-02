@@ -7,7 +7,7 @@
             .row > div {
                 padding: 20px;
                 background-color: #f0a3a3;
-                border: 2px solid black;
+                border: 3px pink;
             }
         </style>
     </head>
